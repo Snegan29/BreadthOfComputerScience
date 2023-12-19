@@ -9,4 +9,6 @@
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/4665897c-4173-43d5-a2eb-d0c692a13d79)
 # DMux.hdl
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/54cdbe34-a1dc-4867-ab08-504623f68b63)
+# Mux.hdl
+![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/41c37f53-2c1f-485c-962d-4f92dcb15934)
 
