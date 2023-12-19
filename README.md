@@ -51,5 +51,5 @@
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/23f13c81-c94e-4046-bad2-28e71f849f67)
 # Computer Rectangle.hsl
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/8a1d2729-8703-4f6b-917a-f0a7f473d043)
-# Pong
+# Pong.asm
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/04cf7cb6-675a-4813-b702-5be8c0b372a1)
