@@ -11,4 +11,6 @@
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/54cdbe34-a1dc-4867-ab08-504623f68b63)
 # Mux.hdl
 ![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/41c37f53-2c1f-485c-962d-4f92dcb15934)
+# Full Adder.hdl
+![image](https://github.com/Snegan29/BreadthOfComputerScience/assets/114458196/7eb9830c-dfa5-4b8a-b03d-c8a3881eeee9)
 
